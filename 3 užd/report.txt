@@ -1,0 +1,118 @@
+QUERY1
+15
+Debora Lockwood
+Sole Druddle
+Wilhelm Note
+...
+
+QUERY2
+877
+Victor Note
+Eve Kesting
+Melissa Note
+...
+
+QUERY3
+794
+Victor Note
+Richard de Vito
+Melissa Note
+...
+
+QUERY4
+503
+Victor Note
+Richard de Vito
+Julie Thornton
+...
+
+QUERY5
+259
+Victor Note
+Melissa Note
+Luke Hat
+...
+
+QUERY6
+566
+Victor Note
+Eve Kesting
+Melissa Note
+...
+
+QUERY7
+218
+Victor Note
+Eve Kesting
+Karl Druddle
+...
+
+QUERY8
+69
+Sole Madsen
+Richard Damon
+Karl Sadman
+...
+
+QUERY9
+214
+Julie Thornton
+Sarah Wozniak
+Kim Hudson
+...
+
+QUERY10
+243
+Victor Note
+Charlie Enderman
+Matt Brighthill
+...
+
+QUERY11
+517
+Julie Thornton
+Sarah Wozniak
+Kim Hudson
+...
+
+QUERY12
+1
+Adam Damon
+
+QUERY13
+47
+Luke Hat
+Wilhelm Quarry
+Kim Brightman
+...
+
+QUERY14
+999
+Victor Note
+Richard de Vito
+Eve Kesting
+...
+
+QUERY15
+72
+Karl Druddle
+Julie Thornton
+Matt Hudson
+...
+
+QUERY16
+343
+Melissa Note
+Karl Druddle
+George Druddle
+...
+
+QUERY17
+303
+Melissa Note
+George Druddle
+Alice Stapleton
+...
+
+QUERY18
+0
